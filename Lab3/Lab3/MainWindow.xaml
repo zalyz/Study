@@ -29,7 +29,7 @@
                 <MenuItem Header="Произведение" Click="MulItem_Click"/>
                 <MenuItem Header="Сортировка" Click="SortItem_Click_1"/>
             </MenuItem>
-            <MenuItem Header="Об авторе">
+            <MenuItem Header="Об авторе" Click="MenuItem_Click">
 
             </MenuItem>
         </Menu>

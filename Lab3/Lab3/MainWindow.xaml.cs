@@ -154,6 +154,9 @@ namespace Lab3
             return splitedArr;
         }
 
-        
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Автор молодец, в представлении не нуждается.", "Информация об авторе");
+        }
     }
 }
