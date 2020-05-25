@@ -1,0 +1,43 @@
+﻿<Window x:Class="Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab3"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="500" MinWidth="850">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Menu Height="18" VerticalAlignment="Center" FontFamily="Arial" FontWeight="SemiBold" Grid.ColumnSpan="3">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Новый" Click="NewFile_Click"/>
+                <MenuItem Header="Открыть" Click="LoadFile_Click"/>
+                <MenuItem Header="Сохранить" Click="OpeningFile_Click"/>
+                <MenuItem Header="Выход"/>
+            </MenuItem>
+            <MenuItem Header="Обработка массива">
+                <MenuItem Header="Сумма отрицательных чисел" Click="SumItem_Click"/>
+                <MenuItem Header="Произведение" Click="MulItem_Click"/>
+                <MenuItem Header="Сортировка" Click="SortItem_Click_1"/>
+            </MenuItem>
+            <MenuItem Header="Об авторе" Click="MenuItem_Click">
+
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="textLength" HorizontalAlignment="Left" MaxLength="2" Margin="142,0,0,0" Grid.Row="2" Text="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Center" IsReadOnly="True" Width="35" Height="26"/>
+        <Label Content="Количество элементов" HorizontalAlignment="Left" Margin="5,0,0,0" Grid.Row="2" VerticalAlignment="Center"/>
+        <Button Content="Очистить" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="38" Width="222" Grid.Column="1" Click="NewFile_Click"/>
+        <Button Content="Сохранить" Grid.Row="2" VerticalAlignment="Center" Height="38" Width="222" Grid.Column="2" HorizontalAlignment="Center" Click="OpeningFile_Click"/>
+        <TextBox x:Name="textMain" Grid.Row="1" FontSize="20" FontFamily="Arial" FontWeight="SemiBold" TextWrapping="Wrap" AcceptsReturn="True" VerticalAlignment="Center" Height="388" Grid.ColumnSpan="3" Margin="10,0,10,0" TextChanged="TextMain_TextChanged"/>
+
+    </Grid>
+</Window>
