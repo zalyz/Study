@@ -1,0 +1,17 @@
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game_MarkupCompile.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game_MarkupCompile.lref
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game.g.resources
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\Game\obj\Debug\netcoreapp3.1\Game.pdb

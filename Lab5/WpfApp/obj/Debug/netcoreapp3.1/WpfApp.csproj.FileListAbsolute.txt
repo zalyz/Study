@@ -1,0 +1,17 @@
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.exe
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.deps.json
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.json
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.runtimeconfig.dev.json
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.dll
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\bin\Debug\netcoreapp3.1\WpfApp.pdb
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.csprojAssemblyReference.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp_MarkupCompile.lref
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.g.resources
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfoInputs.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.AssemblyInfo.cs
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.dll
+C:\Users\slava\Desktop\ЯПВУ\Lab5\Lab5\WpfApp\obj\Debug\netcoreapp3.1\WpfApp.pdb

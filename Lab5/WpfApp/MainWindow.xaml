@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="600" MinWidth="900">
+    <Grid x:Name="mainGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas Grid.Column="1" Background="LightGray">
+            <Grid Height="584" Width="225">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Button Content="Очистить" FontSize="15" FontFamily="Arial" Margin="39,35,39,34" Grid.Row="2" Click="Button_Click"/>
+                <RadioButton x:Name="radioEllips" Content="Круг" FontSize="20" FontWeight="SemiBold" FontFamily="Arial" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radioRectangle" Content="Прямоугольник" FontSize="20" FontWeight="SemiBold" FontFamily="Arial" HorizontalAlignment="Left" Margin="10,58,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radioSquare" Content="Квадрат" FontSize="20" FontWeight="SemiBold" FontFamily="Arial" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Center"/>
+                <RadioButton x:Name="radioLine" Content="Линия" FontSize="20" FontWeight="SemiBold" FontFamily="Arial" HorizontalAlignment="Left" Margin="10,152,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+                <RadioButton x:Name="radioPlygon" Content="Многоугольник" FontSize="20" FontWeight="SemiBold" FontFamily="Arial" HorizontalAlignment="Left" Margin="10,201,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+                <GroupBox Header="Цвета" FontSize="15" FontFamily="Arial" FontWeight="SemiBold" Foreground="Red" Margin="10,0,10,10">
+                    <Canvas>
+                        <RadioButton x:Name="red" Content="Красный" FontSize="17" FontFamily="Arial" Foreground="Red" Canvas.Left="10" Canvas.Top="10"/>
+                        <RadioButton x:Name="black" Content="Черный" FontSize="17" FontFamily="Arial" Foreground="Black" Canvas.Top="34" Canvas.Left="10"/>
+                        <RadioButton x:Name="purple" Content="Фиолетовый" FontSize="17" FontFamily="Arial" Foreground="Purple" Canvas.Left="10" Canvas.Top="58"/>
+                        <RadioButton x:Name="pink" Content="Розовый" FontSize="17" FontFamily="Arial" Foreground="Pink" Canvas.Left="10" Canvas.Top="82"/>
+                        <RadioButton x:Name="yellow" Content="Желтый" FontSize="17" FontFamily="Arial" Foreground="Yellow" Canvas.Left="10" Canvas.Top="106"/>
+                        <RadioButton x:Name="blue" Content="Голубой" FontSize="17" FontFamily="Arial" Foreground="Blue" Canvas.Left="10" Canvas.Top="130"/>
+                    </Canvas>
+                </GroupBox>
+            </Grid>
+        </Canvas>
+        <Canvas x:Name="paintField" Background="White" MouseLeftButtonDown="Path_MouseLeftButtonDown">
+
+        </Canvas>
+    </Grid>
+</Window>
