@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfTrain xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Train>
+    <TrainNumber>718</TrainNumber>
+    <TrainName>Гомель-Минск</TrainName>
+    <Category>Пассажирский</Category>
+    <ArrivalTime>
+      <Hour>0</Hour>
+      <Minutes>0</Minutes>
+    </ArrivalTime>
+    <DepartureTime>
+      <Hour>0</Hour>
+      <Minutes>0</Minutes>
+    </DepartureTime>
+  </Train>
+</ArrayOfTrain>

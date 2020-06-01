@@ -1,0 +1,3 @@
+TrainNumber,TrainName,Category,ArrivalTime,DepartureTime
+718,Гомель-Минск,Пассажирский,"{Hour:0,Minutes:0}","{Hour:0,Minutes:0}"
+123,qwe,asd,"{Hour:0,Minutes:0}","{Hour:0,Minutes:0}"

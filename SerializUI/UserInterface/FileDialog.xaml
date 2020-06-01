@@ -1,0 +1,18 @@
+﻿<Window x:Class="UserInterface.FileDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserInterface"
+        mc:Ignorable="d"
+        Title="FileDialog" WindowStartupLocation="CenterScreen" Height="300" Width="400">
+    <Grid Background="BlueViolet">
+        <RadioButton x:Name="CSV" Content="файл CSV" FontSize="15" FontWeight="SemiBold" Foreground="White" HorizontalAlignment="Left" Margin="34,66,0,0" VerticalAlignment="Top" Click="RadioButton_Checked"/>
+        <RadioButton x:Name="Binary" Content="файл бинарный" FontSize="15" FontWeight="SemiBold" Foreground="White" HorizontalAlignment="Left" Margin="34,103,0,0" VerticalAlignment="Top" Click="RadioButton_Checked"/>
+        <RadioButton x:Name="XML" Content="файд XML" FontSize="15" FontWeight="SemiBold" Foreground="White" HorizontalAlignment="Left" Margin="34,142,0,0" VerticalAlignment="Top" Click="RadioButton_Checked"/>
+        <RadioButton x:Name="JSON" Content="файл JSON" FontSize="15" FontWeight="SemiBold" Foreground="White" HorizontalAlignment="Left" Margin="34,181,0,0" VerticalAlignment="Top" Click="RadioButton_Checked"/>
+        <Label Content="Выберите тип файла" FontSize="15" FontFamily="Arial" FontWeight="SemiBold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"/>
+        <Button Content="Выбрать" HorizontalAlignment="Center" Margin="0,225,0,0" VerticalAlignment="Top" MinHeight="30" MinWidth="138" Click="Button_Click"/>
+
+    </Grid>
+</Window>

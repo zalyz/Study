@@ -1,0 +1,8 @@
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\obj\Debug\netcoreapp3.1\SerializableAPI.csprojAssemblyReference.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\obj\Debug\netcoreapp3.1\SerializableAPI.AssemblyInfoInputs.cache
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\obj\Debug\netcoreapp3.1\SerializableAPI.AssemblyInfo.cs
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\bin\Debug\netcoreapp3.1\SerializableAPI.deps.json
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\bin\Debug\netcoreapp3.1\SerializableAPI.dll
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\bin\Debug\netcoreapp3.1\SerializableAPI.pdb
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\obj\Debug\netcoreapp3.1\SerializableAPI.dll
+C:\Users\slava\Desktop\ЯПВУ\Lab6\SerializUI\SerializableAPI\obj\Debug\netcoreapp3.1\SerializableAPI.pdb
